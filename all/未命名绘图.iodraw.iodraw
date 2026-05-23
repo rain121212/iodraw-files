@@ -530,28 +530,28 @@
           <mxGeometry x="1450" y="459" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-146" value="W1" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="459" width="34" height="20" as="geometry" />
+          <mxGeometry x="280" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-147" value="W2" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="459" width="34" height="20" as="geometry" />
+          <mxGeometry x="310" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-148" value="W3" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="459" width="34" height="20" as="geometry" />
+          <mxGeometry x="340" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-149" value="W4" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="459" width="34" height="20" as="geometry" />
+          <mxGeometry x="370" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-152" value="W1" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="459" width="34" height="20" as="geometry" />
+          <mxGeometry x="160" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-153" value="W2" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="459" width="34" height="20" as="geometry" />
+          <mxGeometry x="190" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-154" value="W3" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="459" width="34" height="20" as="geometry" />
+          <mxGeometry x="220" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-155" value="W4" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="459" width="34" height="20" as="geometry" />
+          <mxGeometry x="250" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-158" value="W1" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="459" width="30" height="20" as="geometry" />
