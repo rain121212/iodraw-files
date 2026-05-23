@@ -1001,7 +1001,7 @@
           <mxGeometry x="520" y="130" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RNHRULZGyiqLh9N6_dd9-97" value="1 month" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="260" width="490" height="20" as="geometry" />
+          <mxGeometry x="160" y="160" width="490" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RNHRULZGyiqLh9N6_dd9-98" value="W1" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="70" height="20" as="geometry" />
@@ -1024,7 +1024,7 @@
         <mxCell id="RNHRULZGyiqLh9N6_dd9-104" value="D9" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RNHRULZGyiqLh9N6_dd9-105" value="W4" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="RNHRULZGyiqLh9N6_dd9-105" value="D10" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RNHRULZGyiqLh9N6_dd9-106" value="水迷宫训练" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
