@@ -1003,10 +1003,10 @@
         <mxCell id="RNHRULZGyiqLh9N6_dd9-97" value="1 W" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="490" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RNHRULZGyiqLh9N6_dd9-98" value="D5" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="RNHRULZGyiqLh9N6_dd9-98" value="W1" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RNHRULZGyiqLh9N6_dd9-99" value="D6" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="RNHRULZGyiqLh9N6_dd9-99" value="W2" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="280" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RNHRULZGyiqLh9N6_dd9-100" value="W3" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
