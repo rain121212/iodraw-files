@@ -872,7 +872,7 @@
           <mxGeometry x="1360" y="779" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-354" value="Task 2" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="230" y="499" width="280" height="20" as="geometry" />
+          <mxGeometry x="230" y="499" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-353" value="适应性喂养" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="160" y="479" width="70" height="20" as="geometry" />
