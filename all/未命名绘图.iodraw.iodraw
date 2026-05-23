@@ -853,8 +853,8 @@
         <mxCell id="7a8b956e7d50b54d-161" value="W4" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="459" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7a8b956e7d50b54d-363" value="Task 11" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="510" y="519" width="150" height="20" as="geometry" />
+        <mxCell id="7a8b956e7d50b54d-363" value="水迷宫训练" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="510" y="519" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-364" value="Task 12" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="970" y="699" width="90" height="20" as="geometry" />
