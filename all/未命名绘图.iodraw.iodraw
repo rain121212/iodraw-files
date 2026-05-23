@@ -1030,7 +1030,7 @@
         <mxCell id="RNHRULZGyiqLh9N6_dd9-107" value="测试+取材" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="70" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="RNHRULZGyiqLh9N6_dd9-108" value="睡眠剥夺+电刺激" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="RNHRULZGyiqLh9N6_dd9-108" value="睡眠剥夺/电刺激" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RNHRULZGyiqLh9N6_dd9-109" value="适应性喂养" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
